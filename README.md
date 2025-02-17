@@ -1,4 +1,3 @@
-# King-penguin-genome-annotation
 GitHub repo containing information and data for the King penguin genome assembly and annotation.
 
 More information can be found in the manuscript:
