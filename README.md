@@ -1,11 +1,15 @@
-GitHub repo containing information and data for the King penguin genome assembly and annotation.
+GitHub repo containing information and data for the King penguin (Pen/Se-guin) genome assembly and annotation.
+
+<img width="1040" alt="Screenshot 2025-03-12 at 22 26 20" src="https://github.com/user-attachments/assets/2f15b5f1-a244-465b-bff5-39cad03d6d13" />
+
+
 
 More information can be found in the manuscript:
 
-## A high-quality, chromosome-level genome of the King penguin (_Aptenodytes patagonicus_)
+## A chromosome-level genome of the King penguin (_Aptenodytes patagonicus_): an emerging model-in-the-wild for studying evolution
 
 #### Authors
-Josephine R. Paris, Camilla Santos, Flávia A. N. Fernandes, Robin Cristofari, Damon-Lee Pointon, Jo Wood, Judit Salces Ortiz, Rosa Fernández, Céline Le Bohec, Emiliano Trucchi
+Josephine R. Paris, Camilla Santos, Flávia A. N. Fernandes, Camilla Santos, Damon-Lee Pointon, Jo Wood, Joan Ferrer Obiol, Judit Salces Ortiz, Rosa Fernández, Robin Cristofari, Céline Le Bohec, Emiliano Trucchi
 
 on BioRxiv: 
 
@@ -34,5 +38,8 @@ Zenodo DOI:
 
 NB: the file bAptPat1.with.geneIDs.gff.gz is the same as bAptPat1.gff3.gz but with protein coding gene names and descriptions from eggnog included
 
+### Non-protein-coding annotation files
+* bAptPat1-ncRNA-annotation.tsv
+* bAptPat1-lncRNA-annotation.tsv
 
 
