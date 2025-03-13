@@ -1,21 +1,18 @@
-GitHub repo containing information and data for the King penguin (Pen/Se-guin) genome assembly and annotation.
+<div align="center">
+    <h1>A chromosome-level genome of the King penguin (<i>Aptenodytes patagonicus</i>): an emerging model-in-the-wild for studying evolution</h1>
+    <p>Josephine R. Paris, Camilla Santos, Flávia A. N. Fernandes, Camilla Santos, Damon-Lee Pointon, Jo Wood, Joan Ferrer Obiol, Judit Salces Ortiz, Rosa Fernández, Robin Cristofari, Céline Le Bohec, Emiliano Trucchi </p>
+</div>
+
+[![DOI](https://zenodo.org/badge/934129583.svg)](https://doi.org/10.5281/zenodo.15021482)
 
 <img width="1040" alt="Screenshot 2025-03-12 at 22 26 20" src="https://github.com/user-attachments/assets/2f15b5f1-a244-465b-bff5-39cad03d6d13" />
 
 
 
-More information can be found in the manuscript:
+<div align="center">
+    <p>GitHub repo containing information and data for the King penguin (Pen/Se-guin) genome assembly and annotation.</p>
+</div>
 
-## A chromosome-level genome of the King penguin (_Aptenodytes patagonicus_): an emerging model-in-the-wild for studying evolution
-
-#### Authors
-Josephine R. Paris, Camilla Santos, Flávia A. N. Fernandes, Camilla Santos, Damon-Lee Pointon, Jo Wood, Joan Ferrer Obiol, Judit Salces Ortiz, Rosa Fernández, Robin Cristofari, Céline Le Bohec, Emiliano Trucchi
-
-on BioRxiv: 
-
-Zenodo DOI: 
-
------------------------
 
 ### Protein-coding annotation files
 
