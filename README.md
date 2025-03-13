@@ -40,6 +40,8 @@ NB: the file bAptPat1.with.geneIDs.gff.gz is the same as bAptPat1.gff3.gz but wi
 
 ### Non-protein-coding annotation files
 * bAptPat1-ncRNA-annotation.tsv
-* bAptPat1-lncRNA-annotation.tsv
+* bAptPat1-lncRNA-annotation.bed
+* bAptPat1-lncRNA-annotation.fasta
+* bAptPat1-lncRNA-annotation.gff
 
 
