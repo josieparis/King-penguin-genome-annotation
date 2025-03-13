@@ -38,10 +38,19 @@ Zenodo DOI:
 
 NB: the file bAptPat1.with.geneIDs.gff.gz is the same as bAptPat1.gff3.gz but with protein coding gene names and descriptions from eggnog included
 
+-----------------------
+
 ### Non-protein-coding annotation files
 * bAptPat1-ncRNA-annotation.tsv
 * bAptPat1-lncRNA-annotation.bed
 * bAptPat1-lncRNA-annotation.fasta
 * bAptPat1-lncRNA-annotation.gff
 
+-----------------------
+
+### Repeat and transposable element annotation files
+* bAptPat1.filteredRepeats.gff
+* bAptPat1-families.fa.strained
+* bAptPat1.familyLevelCount.txt
+* bAptPat1.filteredRepeats.bed
 
